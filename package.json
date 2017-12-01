@@ -11,8 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.8.4",
+    "botbuilder-cognitiveservices": "^1.0.1",
     "restify": "^5.0.0",
-    "botbuilder-cognitiveservices": "^1.0.1"
+    "xhr2": "^0.1.4"
   },
   "devDependencies": {
     "request": "^2.81.0",
