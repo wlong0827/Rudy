@@ -127,7 +127,7 @@ exports.receivedQuery = functions.database.ref('/conversations/-L-EhR3Ps0OXpU6hv
 			timestamp : time
 		};
 		const response2 = {
-			content : "88.2552909944809:-77.5015119968978",
+			content : "35.2552909944809:-97.5015119968978",
 			fromID : "1vj712KhmheBF6sPdXY9wdOfKyj1",
 			toID : "sNVP4BfozOZhmeXk9KVIhkpuGq52",
 			isRead : false,
